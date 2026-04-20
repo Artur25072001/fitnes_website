@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "fitnes_website",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/fitnes_app/",
+    "build": "vite build --base=/fitnes_website/",
     "preview": "vite preview"
   },
   "devDependencies": {
